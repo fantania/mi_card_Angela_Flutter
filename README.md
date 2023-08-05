@@ -1,3 +1,3 @@
 # mi_card_flutter
 
-A new Flutter project.
+Flutter project to learn how to addcustomized FONTS from fonts.google.com, ROW, COLUMN, DIVIDE
